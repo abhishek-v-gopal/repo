@@ -1309,7 +1309,7 @@ a {
 }
 .cid-tz8AVJQXXQ .mbr-section-title {
   text-align: center;
-  color: #151515;
+  color: #9c9cb2;
   width: fit-content;
   margin: auto;
   padding: 0 3rem;
@@ -1348,7 +1348,7 @@ a {
 }
 .cid-tz8AVJQXXQ .mbr-section-subtitle {
   text-align: center;
-  color: #3e2c9b;
+  color: #ffffff;
   width: fit-content;
   margin: auto;
   padding: 0 3rem;
@@ -1362,7 +1362,7 @@ a {
 }
 @media (max-width: 767px) {
   .cid-tz8AVJQXXQ .mbr-section-subtitle {
-    padding-top: 1.6rem;
+    padding-top: 0.6rem;
   }
 }
 .cid-tz8AVJQXXQ .mbr-text,
