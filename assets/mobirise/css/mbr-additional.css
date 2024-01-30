@@ -1261,7 +1261,7 @@ a {
   }
 }
 .back_img{
-  background-image: url(/assets/images/hpg.png);
+  background-image: url("/assets/images/hpg.png");
   background-size: cover;
   background-position: center;
   
