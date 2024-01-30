@@ -1399,6 +1399,16 @@ a {
   color: #151515;
   text-align: center;
 }
+@media(max-width: 992px){
+  .cid-tz8Bbgigor.mbr-section-title{
+    font-size: 4rem;
+  }
+}
+@media(max-width: 767px){
+  .cid-tz8Bbgigor.mbr-section-title{
+    font-size: 1.8rem;
+  }
+}
 .cid-tz8B9KgM7S {
   padding-top: 6rem;
   padding-bottom: 6rem;
