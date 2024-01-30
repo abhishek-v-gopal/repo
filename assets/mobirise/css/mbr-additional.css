@@ -1272,6 +1272,12 @@ a {
     background-position: center;
   }
 }
+@media (max-width: 767px) {
+  .back_img{
+    background-size: cover;
+    background-position: center;
+  }
+}
 .cid-tz8AVJQXXQ {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -1317,7 +1323,7 @@ a {
 }
 @media (max-width: 767px) {
   .cid-tz8AVJQXXQ .mbr-section-title {
-    padding-top: 1.6rem;
+    padding-top: 0.6rem;
   }
 }
 .cid-tz8AVJQXXQ .mbr-text {
