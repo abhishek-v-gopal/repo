@@ -1260,10 +1260,47 @@ a {
     left: -1rem;
   }
 }
+/* Container holding the image and the text */
+.contain {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.fonting{
+  font-family: "Gilda Display", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+  color: #fff;
+}
+.btn{
+  border-radius: 10px;
+  background-color: #fff;
+  color: #000;
+}
+
+.centered {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .cid-tz8AVJQXXQ {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
+  background: url("assets/images/BACK.png");
+
+}
+/* .main{
+  background-image: url("")
+} */
+.full_bg{
+  background: url("assets/images/BACK.png") center center;
+  /* background-image: linear-gradient(to right,#181257,#20258D,#114084,#322694); */
+  background-size: cover;
+  position: relative;
+  height: 100vh;
 }
 .cid-tz8AVJQXXQ .mbr-fallback-image.disabled {
   display: none;
