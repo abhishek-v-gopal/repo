@@ -1285,27 +1285,12 @@ a {
     left: -1rem;
   }
 }
-.back_img{
-  background-image: url(https://github.com/abhishek-v-gopal/repo/assets/144139197/fb243be1-6b8c-42fa-8618-82fa09b9d1b9);
-  background-size: cover;
-  background-position: center;
-  
-}
-@media (max-width: 992px) {
-  .back_img{
-    background-size: cover;
-    background-position: center;
-  }
-}
-@media (max-width: 767px) {
-  .back_img{
-    background-size: cover;
-    background-position: center;
-  }
+<
 }
 .cid-tz8AVJQXXQ {
   padding-top: 4rem;
   padding-bottom: 4rem;
+
 }
 .cid-tz8AVJQXXQ .mbr-fallback-image.disabled {
   display: none;

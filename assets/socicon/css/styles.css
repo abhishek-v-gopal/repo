@@ -41,6 +41,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.full_bg{
+  /* background: url(../images/hpg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position:fixed;  */
+  background: url("../images/hpg.png") center center;
+  /* background-image: linear-gradient(to right,#181257,#20258D,#114084,#322694); */
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+}
 .socicon-eitaa:before {
   content: "\e97c";
 }
