@@ -11,7 +11,7 @@ body {
 }
 .display-2 {
   font-family: 'Darker Grotesque', sans-serif;
-  font-size: 7rem;
+  font-size: 5rem;
   line-height: 0.7;
 }
 .display-2 > .mbr-iconfont {
@@ -1285,13 +1285,29 @@ a {
     left: -1rem;
   }
 }
-<
+.back_img{
+  background-image: url("/assets/images/hpg.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}
+@media (max-width: 992px) {
+  .back_img{
+    background-size: cover;
+    background-position: center;
+  }
+}
+@media (max-width: 767px) {
+  .back_img{
+    background-size: cover;
+    background-position: center;
+  }
 }
 .cid-tz8AVJQXXQ {
   padding-top: 4rem;
   padding-bottom: 4rem;
-
 }
+
 .cid-tz8AVJQXXQ .mbr-fallback-image.disabled {
   display: none;
 }
